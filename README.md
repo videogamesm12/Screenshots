@@ -13,7 +13,7 @@ Server Name | Description | Timeframes (So far)
 EDawg878 | A plot belonging to a childhood friend from real life. | October 21, 2013
 Hypixel | A single screenshot of the bedwars lobby. | July 2, 2019
 Jaygrounds Country | Golf. | July 17, 2019
-Local Server | A screenshot of the are where saturnturn and I put our base on the unofficial SMP server. | June 30, 2019
+Local Server | A screenshot of the area where saturnturn and I put our base on the unofficial SMP server. | June 30, 2019
 NovelMC | Various testing and also a lot of silly signs. | July 3, 2019 to July 5, 2019
 QueerCraft | A small glimpse into a base my sibling was working on.| March 31, 2014
 SkyNetwork | Screenshots that were going to be used to report a player on SkyDoesMinecraft's server. | July 9, 2014
