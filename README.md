@@ -17,7 +17,7 @@ Local Server | A screenshot of the are where saturnturn and I put our base on th
 NovelMC | Various testing and also a lot of silly signs. | July 3, 2019 to July 5, 2019
 QueerCraft | A small glimpse into a base my sibling was working on.| March 31, 2014
 SkyNetwork | Screenshots that were going to be used to report a player on SkyDoesMinecraft's server. | July 9, 2014
-TotalFreedom | ***2014***: Builds from before and during my first few days as a Super Admin.\n***2015 - 2019***: General administration and adminchat conversations. | March 10, 2014 to July 2, 2014, February 15, 2015, June 12, 2019 to July 29, 2019
+TotalFreedom | ***2014***: Builds from before and during my first few days as a Super Admin.<br>***2015 - 2019***: General administration and adminchat conversations. | March 10, 2014 to July 2, 2014, February 15, 2015, June 12, 2019 to July 29, 2019
 TotalFreedom Testing Server | Testing various plugins to move to 1.14. | July 27, 2019
 TotalFreedom Unofficial SMP | The origins of the TotalFreedom SMP server. This was mainly just a hangout for a bunch of friends to just goof off and have fun. Not to be confused with the official SMP server. | June 25, 2019 to July 6, 2019
 Unknown | Screenshots of servers I do not recognize. | October 26, 2013, February 19, 2015, July 3, 2019
